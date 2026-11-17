@@ -1,0 +1,12 @@
+EXPERIMENT A: HVI only vs access only vs CAGS
+Neighborhoods compared: 53 (Brooklyn, residential)
+Each method flags 11 neighborhoods (the number with HVI 5).
+CAGS flagged but HVI-only missed: 3 (Sunset Park (East)-Borough Park (West), East New York-City Line, Cypress Hills)
+CAGS flagged but access-only missed: 5 (East Flatbush-Remsen Village, East Flatbush-Farragut, East New York (North), Flatlands, Prospect Lefferts Gardens-Wingate)
+CAGS flagged but BOTH single measures missed: 0 (none)
+HVI-only flagged but CAGS did not: 3 (Ocean Hill, East New York-New Lots, Brownsville)
+Access-only flagged but CAGS did not: 5 (Marine Park-Mill Basin-Bergen Beach, Canarsie, Sunset Park (Central), Williamsburg, Bath Beach)
+Flagged by both HVI-only and access-only: 3
+Rank correlation (Spearman) HVI vs access-only: 0.23
+Rank correlation (Spearman) CAGS vs HVI: 0.82
+Rank correlation (Spearman) CAGS vs access-only: 0.71

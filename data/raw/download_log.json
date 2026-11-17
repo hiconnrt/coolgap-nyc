@@ -1,0 +1,59 @@
+{
+  "hvi": {
+    "file": "hvi_nta_2020.csv",
+    "publisher": "NYC Department of Health and Mental Hygiene",
+    "url": "https://raw.githubusercontent.com/nychealth/EHDP-data/production/key-topics/heat-vulnerability-index/hvi-nta-2020.csv",
+    "downloaded": "2026-11-16",
+    "bytes": 22986
+  },
+  "cooling_centers": {
+    "file": "cooling_centers_nycem.geojson",
+    "publisher": "NYC Emergency Management",
+    "url": "https://services1.arcgis.com/8cuieNI8NbqQZQVJ/arcgis/rest/services/NYC_Open_Cooling_Centers_Site_Survey_view/FeatureServer/1/query?where=1%3D1&outFields=*&outSR=4326&f=geojson",
+    "downloaded": "2026-11-16",
+    "bytes": 148853
+  },
+  "nta_boundaries": {
+    "file": "nta_2020.geojson",
+    "publisher": "NYC Department of City Planning",
+    "url": "https://data.cityofnewyork.us/resource/9nt8-h7nd.geojson?$limit=5000",
+    "downloaded": "2026-11-16",
+    "bytes": 4586084
+  },
+  "tract_to_nta": {
+    "file": "tract_to_nta_2020.csv",
+    "publisher": "NYC Department of City Planning",
+    "url": "https://data.cityofnewyork.us/resource/hm78-6dwm.csv?$limit=5000",
+    "downloaded": "2026-11-16",
+    "bytes": 397420
+  },
+  "libraries": {
+    "file": "facdb_libraries.csv",
+    "publisher": "NYC Department of City Planning",
+    "url": "https://data.cityofnewyork.us/resource/ji82-xba5.csv?$where=facsubgrp%3D%27PUBLIC%20LIBRARIES%27&$limit=5000",
+    "downloaded": "2026-11-16",
+    "bytes": 116806
+  },
+  "spray_showers": {
+    "file": "parks_spray_showers.geojson",
+    "publisher": "NYC Parks",
+    "url": "https://data.cityofnewyork.us/resource/ckaz-6gaa.geojson?$limit=5000",
+    "downloaded": "2026-11-16",
+    "bytes": 324247
+  },
+  "acs_age": {
+    "file": "acs2024_b01001_tracts_047.dat",
+    "publisher": "US Census Bureau",
+    "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b01001.dat",
+    "downloaded": "2026-11-16",
+    "bytes": 267929,
+    "note": "Row filter: kept the header and 805 rows starting with 1400000US36047. Kept rows are unchanged."
+  },
+  "tract_boundaries": {
+    "file": "tracts_2020_brooklyn.geojson",
+    "publisher": "NYC Department of City Planning",
+    "url": "https://data.cityofnewyork.us/resource/63ge-mke6.geojson?boroname=Brooklyn&$limit=5000",
+    "downloaded": "2026-11-16",
+    "bytes": 2035708
+  }
+}

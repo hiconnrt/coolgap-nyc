@@ -1,0 +1,16 @@
+EXPERIMENT B: clustering quality
+Features: hvi, nearest_miles, resources_per_10k, greenspace_pct (standardized)
+Neighborhoods: 53. Seeds per k: 10.
+k=2: silhouette 0.319 (range 0.319 to 0.319), agreement across seeds 1.00, smallest group 13
+k=3: silhouette 0.246 (range 0.240 to 0.256), agreement across seeds 0.71, smallest group 9
+k=4: silhouette 0.215 (range 0.202 to 0.227), agreement across seeds 0.52, smallest group 7
+k=5: silhouette 0.239 (range 0.230 to 0.245), agreement across seeds 0.84, smallest group 4
+k=6: silhouette 0.243 (range 0.207 to 0.259), agreement across seeds 0.74, smallest group 3
+k=7: silhouette 0.251 (range 0.238 to 0.265), agreement across seeds 0.77, smallest group 3
+k=8: silhouette 0.249 (range 0.231 to 0.266), agreement across seeds 0.73, smallest group 3
+Highest average silhouette: k=2 (0.319)
+k used in the app: 3 (silhouette 0.246, agreement 0.71)
+Groups at the chosen k:
+  Group 1: Higher heat vulnerability (32 neighborhoods, average CAGS 66.3)
+  Group 2: Lower heat vulnerability, farther from cooling resources, fewer resources per person (9 neighborhoods, average CAGS 65.9)
+  Group 3: Lower heat vulnerability, closer to cooling resources, more resources per person, more green space (12 neighborhoods, average CAGS 34.7)

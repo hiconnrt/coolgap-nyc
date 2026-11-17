@@ -1,0 +1,10 @@
+measure,count
+Neighborhoods flagged by each method,11
+Flagged by CAGS and by HVI only,8
+Flagged by CAGS and by access only,6
+Flagged by CAGS but missed by HVI only,3
+Flagged by CAGS but missed by access only,5
+Flagged by CAGS but missed by both,0
+Flagged by HVI only but not by CAGS,3
+Flagged by access only but not by CAGS,5
+Flagged by both HVI only and access only,3

@@ -1,0 +1,54 @@
+nta2020,ntaname,in_focus,cags_rank,hvi,pct_of_random_sets_in_top10
+BK1701,East Flatbush-Erasmus,False,1,5,100.0
+BK1302,Coney Island-Sea Gate,True,2,5,95.7
+BK1201,Sunset Park (East)-Borough Park (West),False,7,3,83.2
+BK0505,East New York-City Line,False,9,4,77.0
+BK1703,East Flatbush-Rugby,False,3,5,70.5
+BK0502,East New York (North),False,6,5,63.9
+BK0501,Cypress Hills,False,10,4,61.7
+BK1704,East Flatbush-Remsen Village,False,4,5,60.6
+BK1802,Marine Park-Mill Basin-Bergen Beach,False,12,3,58.8
+BK1702,East Flatbush-Farragut,False,5,5,52.0
+BK0703,Sunset Park (Central),False,27,2,47.9
+BK1801,Flatlands,False,8,5,37.4
+BK1101,Bensonhurst,True,16,4,37.2
+BK0102,Williamsburg,False,31,2,32.4
+BK0902,Prospect Lefferts Gardens-Wingate,False,11,5,28.9
+BK1803,Canarsie,False,13,4,23.7
+BK1301,Gravesend (South),True,23,4,16.3
+BK1601,Ocean Hill,False,14,5,14.1
+BK1203,Kensington,False,30,3,11.1
+BK0302,Bedford-Stuyvesant (East),False,17,4,9.6
+BK1202,Borough Park,False,18,4,4.9
+BK0503,East New York-New Lots,False,22,5,3.8
+BK1102,Bath Beach,True,36,2,3.7
+BK1602,Brownsville,False,24,5,2.8
+BK0801,Prospect Heights,False,45,2,2.8
+BK1103,Gravesend (West),True,21,4,0.0
+BK1303,Brighton Beach,True,20,4,0.0
+BK0103,South Williamsburg,False,19,4,0.0
+BK0401,Bushwick (West),False,15,4,0.0
+BK0504,Spring Creek-Starrett City,False,29,4,0.0
+BK1502,Madison,True,28,3,0.0
+BK1401,Flatbush,False,26,4,0.0
+BK1403,Midwood,False,32,3,0.0
+BK0104,East Williamsburg,False,33,4,0.0
+BK0702,Sunset Park (West),False,34,3,0.0
+BK0901,Crown Heights (South),False,35,4,0.0
+BK0402,Bushwick (East),False,25,4,0.0
+BK1204,Mapleton-Midwood (West),False,37,3,0.0
+BK1501,Gravesend (East)-Homecrest,True,38,3,0.0
+BK0802,Crown Heights (North),False,40,4,0.0
+BK0101,Greenpoint,False,39,2,0.0
+BK0301,Bedford-Stuyvesant (West),False,41,3,0.0
+BK1001,Bay Ridge,False,42,2,0.0
+BK1002,Dyker Heights,False,43,3,0.0
+BK1402,Flatbush (West)-Ditmas Park-Parkville,False,44,3,0.0
+BK0701,Windsor Terrace-South Slope,False,46,1,0.0
+BK0204,Clinton Hill,False,47,2,0.0
+BK0601,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,False,48,2,0.0
+BK1503,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,True,49,2,0.0
+BK0602,Park Slope,False,50,1,0.0
+BK0202,Downtown Brooklyn-DUMBO-Boerum Hill,False,51,2,0.0
+BK0203,Fort Greene,False,52,2,0.0
+BK0201,Brooklyn Heights,False,53,1,0.0

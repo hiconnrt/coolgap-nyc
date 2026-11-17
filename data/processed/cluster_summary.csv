@@ -1,0 +1,4 @@
+cluster,cluster_name,neighborhoods,population,hvi,nearest_miles,resources_per_10k,greenspace_pct,cags
+1,Higher heat vulnerability,32,1732654,4.09375,0.37426022885383514,0.2297848847473071,20.28844973796691,66.3271785758338
+2,"Lower heat vulnerability, farther from cooling resources, fewer resources per person",9,381670,2.7777777777777777,0.4825541928371318,0.1696890946359691,21.12583821267489,65.8993986746706
+3,"Lower heat vulnerability, closer to cooling resources, more resources per person, more green space",12,516262,2.0833333333333335,0.3227318308482781,0.4748046918434683,29.170748290519768,34.74480319048211

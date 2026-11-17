@@ -1,0 +1,14 @@
+EXPERIMENT E: block-level surface temperature model
+Satellite scene: LC09_L2SP_014032_20220720_02_T1 (2022-07-20), USGS Landsat Collection 2 Level-2 via Microsoft Planetary Computer
+Grid: 2,926 cells of 100 m in Southern Brooklyn
+Measured surface temperature: 95.0 to 133.1 F (standard deviation 3.7 F)
+Model: Random Forest, 300 trees. Features: ndvi, ndbi, brightness, ndvi_nearby, ndbi_nearby, brightness_nearby, coast_distance_m
+MAIN RESULT, spatial cross-validation (5 folds of 1000 m blocks): R squared 0.500, MAE 1.92 F
+Baseline (guess the training average): MAE 2.71 F
+Each fold: R squared 0.57, MAE 1.95 F; R squared 0.50, MAE 1.97 F; R squared 0.61, MAE 1.44 F; R squared 0.62, MAE 2.01 F; R squared -0.04, MAE 2.22 F
+Held-out split (25% of blocks, 858 cells in 12 blocks): R squared 0.496, MAE 1.58 F (baseline MAE 2.42 F)
+Training cells: R squared 0.878, MAE 0.92 F
+Random split (leaky, comparison only): R squared 0.593, MAE 1.68 F
+Feature importance (error growth in F when scrambled): Distance to the coast 0.59; Brightness of the cells around it 0.48; Brightness of the cell (reflected sunlight) 0.39; Built-up index of the cell (NDBI) 0.31; Greenness of the cell (NDVI) 0.16; Built-up index of the cells around it 0.14; Greenness of the cells around it 0.12
+Note: an earlier version without the two brightness features scored lower (spatial cross-validation R squared 0.34). Brightness was added after seeing that.
+Surface temperature is not the air temperature people feel.

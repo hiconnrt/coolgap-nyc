@@ -1,0 +1,41 @@
+{
+  "item": "LC09_L2SP_014032_20220720_02_T1",
+  "scene_date": "2022-07-20T15:39:46.497972Z",
+  "scene_cloud_cover_pct": 3.67,
+  "platform": "landsat-9",
+  "source_page": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/landsat-c2-l2/items/LC09_L2SP_014032_20220720_02_T1",
+  "downloaded": "2026-11-17",
+  "note": "Only the window around the focus area was saved. Pixel values are unchanged.",
+  "bands": {
+    "red": {
+      "file": "landsat/red.tif",
+      "url": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2022/014/032/LC09_L2SP_014032_20220720_20220723_02_T1/LC09_L2SP_014032_20220720_20220723_02_T1_SR_B4.TIF",
+      "rows": 279,
+      "cols": 353
+    },
+    "nir08": {
+      "file": "landsat/nir08.tif",
+      "url": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2022/014/032/LC09_L2SP_014032_20220720_20220723_02_T1/LC09_L2SP_014032_20220720_20220723_02_T1_SR_B5.TIF",
+      "rows": 279,
+      "cols": 353
+    },
+    "swir16": {
+      "file": "landsat/swir16.tif",
+      "url": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2022/014/032/LC09_L2SP_014032_20220720_20220723_02_T1/LC09_L2SP_014032_20220720_20220723_02_T1_SR_B6.TIF",
+      "rows": 279,
+      "cols": 353
+    },
+    "lwir11": {
+      "file": "landsat/lwir11.tif",
+      "url": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2022/014/032/LC09_L2SP_014032_20220720_20220723_02_T1/LC09_L2SP_014032_20220720_20220723_02_T1_ST_B10.TIF",
+      "rows": 279,
+      "cols": 353
+    },
+    "qa_pixel": {
+      "file": "landsat/qa_pixel.tif",
+      "url": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2022/014/032/LC09_L2SP_014032_20220720_20220723_02_T1/LC09_L2SP_014032_20220720_20220723_02_T1_QA_PIXEL.TIF",
+      "rows": 279,
+      "cols": 353
+    }
+  }
+}

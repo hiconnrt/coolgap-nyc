@@ -1,0 +1,8 @@
+EXPERIMENT C: SIMULATION scenarios
+Scenarios 1 to 4 are SIMULATIONS. The added sites are not real.
+Focus area: Southern Brooklyn, 445,054 residents.
+0. Existing resources: 76.2% of focus residents within 0.5 miles, 0 Brooklyn residents newly reached, of whom 0 live in the focus area (0 aged 65+ newly reached when older adult sites are counted), average focus CAGS 61.3
+1. +1 site, center of Coney Island-Sea Gate (highest gap): 76.2% of focus residents within 0.5 miles, 0 Brooklyn residents newly reached, of whom 0 live in the focus area (0 aged 65+ newly reached when older adult sites are counted), average focus CAGS 60.4, site in Coney Island-Sea Gate
+2. +1 site, best spot from search: 80.4% of focus residents within 0.5 miles, 20,668 Brooklyn residents newly reached, of whom 18,400 live in the focus area (0 aged 65+ newly reached when older adult sites are counted), average focus CAGS 59.2, site in Gravesend (East)-Homecrest
+3. +2 sites, best spots from search: 82.3% of focus residents within 0.5 miles, 39,676 Brooklyn residents newly reached, of whom 27,125 live in the focus area (1,846 aged 65+ newly reached when older adult sites are counted), average focus CAGS 58.4, site in Gravesend (East)-Homecrest; Bensonhurst
+4. +1 site, center of Sheepshead Bay-Manhattan Beach-Gerritsen Beach (lowest gap): 77.0% of focus residents within 0.5 miles, 3,212 Brooklyn residents newly reached, of whom 3,212 live in the focus area (602 aged 65+ newly reached when older adult sites are counted), average focus CAGS 60.1, site in Sheepshead Bay-Manhattan Beach-Gerritsen Beach

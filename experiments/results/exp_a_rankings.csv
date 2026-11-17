@@ -1,0 +1,54 @@
+ntaname,in_focus,hvi,access_only,cags,rank_hvi,rank_access,cags_rank,flag_hvi,flag_access,flag_cags
+East Flatbush-Erasmus,False,5,83.94,90.37,1,4,1,True,True,True
+Coney Island-Sea Gate,True,5,75.88,85.53,1,8,2,True,True,True
+East Flatbush-Rugby,False,5,69.87,81.92,1,11,3,True,True,True
+East Flatbush-Remsen Village,False,5,68.28,80.97,1,15,4,True,False,True
+East Flatbush-Farragut,False,5,67.49,80.5,1,17,5,True,False,True
+East New York (North),False,5,67.27,80.36,1,18,6,True,False,True
+Sunset Park (East)-Borough Park (West),False,3,99.7,79.82,29,1,7,False,True,True
+Flatlands,False,5,65.26,79.16,1,19,8,True,False,True
+East New York-City Line,False,4,81.64,78.99,12,5,9,False,True,True
+Cypress Hills,False,4,77.77,76.66,12,7,10,False,True,True
+Prospect Lefferts Gardens-Wingate,False,5,60.03,76.02,1,28,11,True,False,True
+Marine Park-Mill Basin-Bergen Beach,False,3,91.38,74.83,29,2,12,False,True,False
+Canarsie,False,4,71.75,73.05,12,9,13,False,True,False
+Ocean Hill,False,5,53.77,72.26,1,33,14,True,False,False
+Bushwick (West),False,4,69.24,71.55,12,12,15,False,False,False
+Bensonhurst,True,4,68.95,71.37,12,13,16,False,False,False
+Bedford-Stuyvesant (East),False,4,64.04,68.43,12,22,17,False,False,False
+Borough Park,False,4,63.81,68.29,12,23,18,False,False,False
+South Williamsburg,False,4,61.99,67.19,12,26,19,False,False,False
+Brighton Beach,True,4,61.31,66.79,12,27,20,False,False,False
+Gravesend (West),True,4,59.6,65.76,12,29,21,False,False,False
+East New York-New Lots,False,5,42.32,65.39,1,44,22,True,False,False
+Gravesend (South),True,4,58.4,65.04,12,30,23,False,False,False
+Brownsville,False,5,38.85,63.31,1,48,24,True,False,False
+Bushwick (East),False,4,54.55,62.73,12,32,25,False,False,False
+Flatbush,False,4,53.58,62.15,12,34,26,False,False,False
+Sunset Park (Central),False,2,84.48,60.69,40,3,27,False,True,False
+Madison,True,3,67.74,60.64,29,16,28,False,False,False
+Spring Creek-Starrett City,False,4,48.51,59.11,12,39,29,False,False,False
+Kensington,False,3,63.52,58.11,29,24,30,False,False,False
+Williamsburg,False,2,79.78,57.87,40,6,31,False,True,False
+Midwood,False,3,62.91,57.75,29,25,32,False,False,False
+East Williamsburg,False,4,44.93,56.96,12,42,33,False,False,False
+Sunset Park (West),False,3,58.13,54.88,29,31,34,False,False,False
+Crown Heights (South),False,4,41.09,54.66,12,45,35,False,False,False
+Bath Beach,True,2,71.02,52.61,40,10,36,False,True,False
+Mapleton-Midwood (West),False,3,52.84,51.71,29,35,37,False,False,False
+Gravesend (East)-Homecrest,True,3,52.12,51.27,29,36,38,False,False,False
+Greenpoint,False,2,68.33,51.0,40,14,39,False,False,False
+Crown Heights (North),False,4,34.85,50.91,12,50,40,False,False,False
+Bedford-Stuyvesant (West),False,3,51.07,50.64,29,38,41,False,False,False
+Bay Ridge,False,2,64.77,48.86,40,21,42,False,False,False
+Dyker Heights,False,3,47.45,48.47,29,40,43,False,False,False
+Flatbush (West)-Ditmas Park-Parkville,False,3,45.46,47.27,29,41,44,False,False,False
+Prospect Heights,False,2,51.18,40.71,40,37,45,False,False,False
+Windsor Terrace-South Slope,False,1,65.06,39.04,51,20,46,False,False,False
+Clinton Hill,False,2,40.83,34.5,40,46,47,False,False,False
+Carroll Gardens-Cobble Hill-Gowanus-Red Hook,False,2,39.83,33.9,40,47,48,False,False,False
+Sheepshead Bay-Manhattan Beach-Gerritsen Beach,True,2,38.18,32.91,40,49,49,False,False,False
+Park Slope,False,1,43.41,26.05,51,43,50,False,False,False
+Downtown Brooklyn-DUMBO-Boerum Hill,False,2,25.5,25.3,40,51,51,False,False,False
+Fort Greene,False,2,13.83,18.3,40,52,52,False,False,False
+Brooklyn Heights,False,1,0.0,0.0,51,53,53,False,False,False

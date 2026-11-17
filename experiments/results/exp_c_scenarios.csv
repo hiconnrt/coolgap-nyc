@@ -1,0 +1,6 @@
+scenario,simulated,sites,sites_in,residents_newly_within_walk,focus_residents_newly_within_walk,residents_65_newly_within_walk,pct_focus_within_walk,pct_borough_within_walk,average_focus_cags,highest_focus_cags
+0. Existing resources,False,,,0,0,0,76.23,77.41,61.32,85.53
+"1. +1 site, center of Coney Island-Sea Gate (highest gap)",True,"40.57706, -73.98698",Coney Island-Sea Gate,0,0,0,76.23,77.41,60.41,77.3
+"2. +1 site, best spot from search",True,"40.60505, -73.96559",Gravesend (East)-Homecrest,20668,18400,0,80.36,78.2,59.24,85.53
+"3. +2 sites, best spots from search",True,"40.60505, -73.96559; 40.62097, -74.00081",Gravesend (East)-Homecrest; Bensonhurst,39676,27125,1846,82.32,78.92,58.41,85.53
+"4. +1 site, center of Sheepshead Bay-Manhattan Beach-Gerritsen Beach (lowest gap)",True,"40.59081, -73.94281",Sheepshead Bay-Manhattan Beach-Gerritsen Beach,3212,3212,602,76.95,77.54,60.09,85.53

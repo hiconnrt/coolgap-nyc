@@ -1,0 +1,12 @@
+test,r2,mae_f
+"Spatial cross-validation (5 folds), main result",0.5,1.915
+Baseline for cross-validation (guess the training average),-0.012,2.705
+Held-out split (25% of blocks),0.496,1.577
+Baseline for held-out split,-0.065,2.42
+"Training cells (not a fair test, shown to reveal overfitting)",0.878,0.925
+"Random split (leaky, for comparison only)",0.593,1.675
+Cross-validation fold 1,0.571,1.947
+Cross-validation fold 2,0.495,1.966
+Cross-validation fold 3,0.613,1.435
+Cross-validation fold 4,0.618,2.009
+Cross-validation fold 5,-0.043,2.22

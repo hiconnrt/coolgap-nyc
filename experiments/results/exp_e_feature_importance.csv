@@ -1,0 +1,8 @@
+feature,label,mae_increase_f,tree_importance
+coast_distance_m,Distance to the coast,0.5878,0.4561
+brightness_nearby,Brightness of the cells around it,0.4781,0.0992
+brightness,Brightness of the cell (reflected sunlight),0.3902,0.1173
+ndbi,Built-up index of the cell (NDBI),0.3078,0.084
+ndvi,Greenness of the cell (NDVI),0.1632,0.0928
+ndbi_nearby,Built-up index of the cells around it,0.1403,0.0684
+ndvi_nearby,Greenness of the cells around it,0.1184,0.0823

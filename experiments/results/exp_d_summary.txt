@@ -1,0 +1,21 @@
+EXPERIMENT D: weight sensitivity
+Baseline weights: {'hvi': 0.4, 'distance': 0.25, 'nearby': 0.2, 'per_capita': 0.15}
+Baseline (used in the app): 10 of 10 stay in the top 10, rank correlation with baseline 1.00
+Equal weights: 9 of 10 stay in the top 10, rank correlation with baseline 0.95
+More HVI (0.60): 8 of 10 stay in the top 10, rank correlation with baseline 0.95
+Less HVI (0.20): 9 of 10 stay in the top 10, rank correlation with baseline 0.92
+Drop heat vulnerability (hvi): 5 of 10 stay in the top 10, rank correlation with baseline 0.70
+Drop distance to nearest resource: 7 of 10 stay in the top 10, rank correlation with baseline 0.94
+Drop few resources within walking distance: 9 of 10 stay in the top 10, rank correlation with baseline 0.98
+Drop few resources per 10,000 residents: 9 of 10 stay in the top 10, rank correlation with baseline 0.97
+Random weights (1000 sets, seed 0): on average 7.0 of 10 stay in the top 10 (lowest 3, highest 10).
+In the top 10 for at least 90% of random weight sets: East Flatbush-Erasmus, Coney Island-Sea Gate
+Focus area Coney Island-Sea Gate (baseline rank 2): in the top 10 for 96% of random weight sets
+Focus area Bensonhurst (baseline rank 16): in the top 10 for 37% of random weight sets
+Focus area Gravesend (South) (baseline rank 23): in the top 10 for 16% of random weight sets
+Focus area Bath Beach (baseline rank 36): in the top 10 for 4% of random weight sets
+Focus area Gravesend (West) (baseline rank 21): in the top 10 for 0% of random weight sets
+Focus area Brighton Beach (baseline rank 20): in the top 10 for 0% of random weight sets
+Focus area Madison (baseline rank 28): in the top 10 for 0% of random weight sets
+Focus area Gravesend (East)-Homecrest (baseline rank 38): in the top 10 for 0% of random weight sets
+Focus area Sheepshead Bay-Manhattan Beach-Gerritsen Beach (baseline rank 49): in the top 10 for 0% of random weight sets
